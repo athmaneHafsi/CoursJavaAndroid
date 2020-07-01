@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="identifiant">Nom d\'utilisateur</string>
+    <string name="auth">S\'authentifier</string>
+    <string name="pass">Mot de passe</string>
+    <string name="err_username_empty">Le nom d\'utilisateur est vide</string>
+    <string name="err_password_empty">Le mot de passe est vide</string>
+    <string name="err_username_wrong">Le nom d\'utilisateur est incorrect</string>
+    <string name="err_password_wrong">Le mot de passe est incorrect</string>
+</resources>
